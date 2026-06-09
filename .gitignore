@@ -1,1 +1,3 @@
-venv/
+# Ignore build artifacts
+*.o
+hft_engine
